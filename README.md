@@ -14,6 +14,7 @@ Possible bug that needs testing:
 - Might stop doing anything on leveling up
 
 Instruction:
+- Download MinaCBall.class and place it in RSPeer\scripts folder, tick "local scripts" on script selector to find it
 - Preferably start the script at Edgeville
 - Make sure you have Ammo mould either in the bank or inventory
 
