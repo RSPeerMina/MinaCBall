@@ -12,3 +12,8 @@ Features:
 Possible bug that needs testing:
 
 - Might stop doing anything on leveling up
+
+Instruction:
+- Preferably start the script at Edgeville
+- Make sure you have Ammo mould either in the bank or inventory
+
