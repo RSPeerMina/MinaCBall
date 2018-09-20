@@ -9,9 +9,9 @@ Features:
 - Withdraw mould at startup if not in invent, stops script if none found in bank
 - Stops when out of Steel bars
 
-Possible bug that needs testing:
+Known issues:
 
-- Might stop doing anything on leveling up
+- None at the moment, but please report any issues found at https://forums.rspeer.org/topic/382/simple-cannonball-smelter
 
 Instruction:
 - Preferably start the script at Edgeville
